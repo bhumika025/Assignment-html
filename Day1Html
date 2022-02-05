@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>WEBPAGE</title>
+
+        <style>
+            body{
+                background-color: cyan;
+            }
+            .ad{
+                background-color: crimson;
+            }
+
+            p{
+                font-size: 20px;
+            }
+        </style>
+
+    </head>
+
+    <body>
+        <center><h1>Aditya Dodiya</h1></center>
+        <hr>
+
+        <div class="ad">
+            <h3>Why do you want to learn HTML CSS ZERO TO HERO?</h3>
+            <p>Learning how to code allows you to bring out your personality on your own website, enables you to stand out <br> from the crowd, contribute to projects better, helps you understand and explore other languages and provides you with an opportunity to transition into a different career.</p>
+        </div>
+    </body>
+</html>
